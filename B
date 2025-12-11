@@ -1,0 +1,46 @@
+{
+    "B": [
+        {
+            "name": "besthdmovies",
+            "Ranking": "1",
+            "url": "https://besthdmovies.bond",
+            "description": "SERVER DOWN besthdmovies.bond"
+        },
+        {
+            "name": "bollyverse",
+            "Ranking": "off",
+            "url": "https://bollyverse.site",
+            "description": "bollyverse.xyz bollyverse.in"
+        },
+        {
+            "name": "bdmusic25",
+            "Ranking": "off",
+            "url": "https://bdmusic25.tel",
+            "description": "bdmusic25.sbs"
+        },
+        {
+            "name": "bdboss24",
+            "Ranking": "1",
+            "url": "https://bdboss24.com",
+            "description": "bdboss24.net www.bdbos-s24.shop www.bdboss24.org www.bdboss24.hair www.bdboss24.digital www.bdboss24.best wwww.bdboss24.news www.bdboss24.world www.bdboss24.app www.bdboss24.com.de www.bdbos24.com bdboss24.cc bdboss24.cam bdboss24.cc"
+        },
+        {
+            "name": "bolly2tolly",
+            "Ranking": "1",
+            "url": "https://www.bolly2tolly.live",
+            "description": "bolly2tolly.me bolly2tolly.lol bolly2tolly.net bolly2tolly.run bolly2tolly.info bolly2tolly.me bolly2tolly.eu"
+        },
+        {
+            "name": "bolly4u",
+            "Ranking": "1",
+            "url": "https://bolly4u.pm",
+            "description": "bolly4u.wf bolly4u.studio bolly4u.page bolly4u.win bolly4u.cash bolly4u.fan bolly4u.center bolly4u.bio bolly4u.sale bolly4u.cheap bolly4u.dev bolly4u.cafe bolly4u.online bolly4u.plus bolly4u.host bolly4u.vip bolly4u.team bolly4u.love bolly4u.day bolly4u.help bolly4u.party bolly4u.red bolly4u.tv bolly4u.band bolly4u.org bolly4u.homes bolly4u.rent bolly4u.town bolly4u.skin bolly4u.pics bolly4u.tips"
+        },
+        {
+            "name": "bollyflix",
+            "Ranking": "1",
+            "url": "https://bollyflix.cat",
+            "description": "bollyflix.cash bollyflix.bet bollyflix.dad bollyflix.boo bollyflix.zip bollyflix.kim bollyflix.asia bollyflix.bike bollyflix.loan bollyflix.gold bollyflix.cool bollyflix.blue bollyflix care bollyflix.bio bollyflix.casa bollyflix.hair bollyflix.baby bollyflix.rocks bollyflix.page bollyflix.day bollyflix.help bollyflix.rent bollyflix.vip bollyflix.pink bollyflix.store bollyflix.surf bollyflix.sbs bollyflix.digital bollyflix.trade"
+        }
+    ]
+}
