@@ -1,0 +1,61 @@
+{
+    "H": [
+        {
+            "name": "hdhubflix",
+            "Ranking": "Unknown",
+            "url": "https://hdhubflix.com",
+            "description": "hdhubflix.xyz moviesgod.pics Moviesgod.in Moviesgod.click hdhubflix.site HDHubFlix.org.in hdhubflix.shop hdhubflix.com"
+        },
+        {
+            "name": "hdmovieshome",
+            "Ranking": "1",
+            "url": "https://hdmovieshome.in",
+            "description": "SERVER DOWN hdmovieshome.in hdmovieshome.com"
+        },
+        {
+            "name": "hallmarkmovies",
+            "Ranking": "1",
+            "url": "https://hallmarkmovies.xyz",
+            "description": "SERVER DOWN hallmarkmovies.xyz"
+        },
+        {
+            "name": "hd9xmovie",
+            "Ranking": "7",
+            "url": "https://hd9xmovie.co",
+            "description": "SERVER DOWN hd9xmovie.net hd9xmovie.co"
+        },
+        {
+            "name": "hdmovie20",
+            "Ranking": "1",
+            "url": "https://hdmovie20.sbs",
+            "description": "SERVER DOWN hdmovie20.sbs hdmovie20.com"
+        },
+        {
+            "name": "hdmovie99",
+            "Ranking": "TVGO",
+            "url": "https://hdmovie99.click",
+            "description": "hdmovie99.top hdmovie99.world hdmovie99.hair hdmovie99.asia hdmovie99.lol hdmovie99.pics hdmovie99.one Hdmovie99.store Hdmovie99.biz HDmovie99.Com Hdmovie99.biz hdmovie99.me"
+        },
+        {
+            "name": "hdmkvcinema",
+            "Ranking": "1",
+            "url": "https://hdmkvcinema.club",
+            "description": "SERVER DOWN hdmkvcinema.club"
+        },
+        {
+            "name": "hdfriday",
+            "Ranking": "TVGO",
+            "url": "https://hdfriday.top",
+            "description": "hdfriday.rest hdfriday.live hdfriday.pro hdfriday.club hdfriday.lat hdfriday.space hdfriday.click hdfriday.lol hdfriday.ink hdfriday.shop hdfriday.life hdfriday.in Hdfriday.com nokiamasti.com"
+        },
+        {
+            "name": "hdking",
+            "Ranking": "TVGO",
+            "url": "https://hdking.ing",
+            "description": "hdking.day hdking.li hdking.co hdking.ch hdking.ws hdking.tax hdking.io hdking.lol hdking.bio hdking.info hdking.club hdking.guru hdking.wiki hdking.uk hdking.cfd hdking.shop hdking.live hdking.ink hdking.one hdking.biz hdking.fun hdking.vip hdking.nl"
+        },
+        {
+            "name": "hdhub4u",
+            "Ranking": "TVGO",
+            "url": "https://hdhub4u.nexus",
+            "description": "hdhub4u.pm hdhub4u.mov hdhub4u.ist hdhub4u.zip hdhub4u.dad hdhub4u.markets hdhub4u.fan hdhub4u.ventures hdhub4u.racing hdhub4u.ventures hdhub4u.green hdhub4u.fund hdhub4u.expert hdhub
