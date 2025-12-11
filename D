@@ -1,0 +1,40 @@
+{
+    "D": [
+        {
+            "name": "downloadhub4u",
+            "Ranking": "3",
+            "url": "https://downloadhub4u.rent",
+            "description": "downloadhub4u.makeup"
+        },
+        {
+            "name": "dudefilms",
+            "Ranking": "1",
+            "url": "https://dudefilms.net",
+            "description": "dudefilms.homes"
+        },
+        {
+            "name": "ddrmovies",
+            "Ranking": "1",
+            "url": "https://ddrmovies.lol",
+            "description": "ddrmovies.college hajarmain.net"
+        },
+        {
+            "name": "desiremovies",
+            "Ranking": "TVGO",
+            "url": "https://desiremovies.rsvp",
+            "description": "desiremovies.dev desiremovies.boo desiremovies.foo desiremovies.wf desiremovies.dad desiremovies.bio desiremovies.makeup desiremovies.social desiremovies.cafe desiremovies.observer desiremovies.training desiremovies.estate desiremovies.estate desiremovies.expert desiremovies.motorcycles desiremovies.yachts desiremovies.autos desiremovies.network desiremovies.codes desiremovies.gold desiremovies.asia desiremovies.beauty desiremovies.tattoo desiremovies.lol desiremovies.pics desiremovies.mom desiremovies.skin desiremovies.homes desiremovies.nl desiremovies.run desiremovies.ink desiremovies.hair desiremovies.town desiremovies.events desiremovies.center desiremovies.energy Desiremovies.plus"
+        },
+        {
+            "name": "downloadhub",
+            "Ranking": "TVGO",
+            "url": "https://downloadhub.wf",
+            "description": "downloadhub.meme downloadhub.boo downloadhub.party downloadhub.style downloadhub.house downloadhub.photos downloadhub.markets downloadhub.boutique downloadhub.fyi downloadhub.cheap downloadhub.dance downloadhub.show downloadhub.tools downloadhub.health downloadhub.desi downloadhub.tattoo downloadhub.coach downloadhub.gold downloadhub.homes downloadhub.autos downloadhub.help downloadhub.gives downloadhub.bike downloadhub.baby downloadhub.codes downloadhub.expert downloadhub.bond downloadhub.rodeo downloadhub.town downloadhub.pics downloadhub.mba downloadhub.mom downloadhub.ltd Downloadhub.bar"
+        },
+        {
+            "name": "downloadhub",
+            "Ranking": "TVGO",
+            "url": "https://downloadhub.racing",
+            "description": "downloadhub.yachts downloadhub.hair downloadhub.makeup downloadhub.team downloadhub.vip downloadhub.top downloadhub.com.co Downloadhub.dog"
+        }
+    ]
+}
