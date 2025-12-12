@@ -1,35 +1,34 @@
 {
     "V": [
         {
-            "name": "vegamovies",
-            "Ranking": "1",
-            "url": "https://thevegamovies.co",
-            "description": "vegamovies.dog"
+            "name": "vegamoviez",
+            "Ranking": "5",
+            "url": "https://vegamoviez.co",
+            "description": "movieswood.nl vegamovies2.nl"
         },
         {
-            "name": "moviesflix",
-            "Ranking": "1",
-            "url": "https://themoviezflix.tv",
-            "description": "SERVER DOWN themoviezflix.tv"
+            "name": "vegamovie",
+            "Ranking": "4",
+            "url": "https://vegamovie.cfd",
+            "description": "vegamovie.lat vegamovies.directory"
         },
         {
-            "name": "starflix",
-            "Ranking": "1",
-            "url": "https://thestarflix.lat",
-            "description": "thestarflix.fun thestarflix.xyz Thestarflix.lol Thestarflix.buzz bollyflix.skin BollyFlix.mom hdmovies4u.pro hdmovies4u.work hdmovies4u.vip HDMovies4u.fun hdmovies4u.space hdmovies4u.wtf hdmovies4u.skin hdmovies4u.cfd hdmovies4u.art hdmovies4u.bar hdmovies4u.rest hdmovies4u.asia hdmovies4u.life hdmovies4u.net hdmovies4u.quest hdmovies4u.me hdmovies4u.mom hdmovies4u.cyou"
+            "name": "vegamovie",
+            "Ranking": "3",
+            "url": "https://vegamovieshub.directory",
+            "description": "vegamovieshub.blog vegamovieshub.boutique vegamovieshub.one one.vegamovieshub.buzz vegamovieshub.ink vegamovieshub.live vegamovieshub.wiki vegamovieshub.biz vegamovieshub.tokyo one.vegamovieshub.tattoo vegamovieshub.world vegamovieshub.cyou one.vegamovieshub.quest vegamovieshub.cam one.vegamovieshub.yachts one.vegamovieshub.icu vegamovieshub.art one.vegamovieshub.hair vegamovieshub.beauty vegamovieshub.cloud vegamovieshub.monster"
         },
         {
-            "name": "khatrimaza",
+            "name": "m",
             "Ranking": "TVGO",
-            "url": "https://thekhatrimaza.cab",
-            "description": "thekhatrimaza.mov thekhatrimaza.rip thekhatrimaza.tax thekhatrimaza.casa thekhatrimaza.bike thekhatrimaza.tube thekhatrimaza.club thekhatrimaza.cheap thekhatrimaza.loan thekhatrimaza.cafe thekhatrimaza.blue thekhatrimaza.care thekhatrimaza.day thekhatrimaza.gold thekhatrimaza.bond thekhatrimaza.golf thekhatrimaza.baby thekhatrimaza.love thekhatrimaza.rent thekhatrimaza.fit thekhatrimaza.skin thekhatrimaza.run thekhatrimaza.icu thekhatrimaza.men thekhatrimaza.cam thekhatrimaza.info thekhatrimaza.team thekhatrimaza.tips thekhatrimaza.life thekhatrimaza.skin thekhatrimaza.shop thekhatrimaza.press thekhatrimaza.town thekhatrimaza.camp thekhatrimaza.city thekhatrimaza.link Thekhatrimaza.rest"
+            "url": "https://m.vegamovies.yt",
+            "description": "vegamovies.llc vegamovies.ngo vegamovies.boo Vegamovies.Care vegamovies.zip vegamovies.sx vegamovies.im vegamovies.black m.vegamovies.photos vegamovies.gold m.vegamovies.tips vegamovies.chat vegamovies.cheap vegamovies.party vegamovies.help vegamovies.love vegamovies.rocks vegamovies.day my.vegamovies.fyi vegamovies.fyi vegamovies.de vegamovies.net vegamovies.nl vegamovies.homes shrlinks.fun vegamovies.quest vegamovies.team vegamovies.show vegamovies.baby vegamovies.monster"
         },
         {
-            "name": "moviesflix",
+            "name": "vegamovie",
             "Ranking": "TVGO",
-            "url": "https://themoviesflix.net.vc",
-            "description": "themoviezflix.us.org themoviezflix.org.MX themoviezflix.com.ph themoviesflix.us.org themoviesflix.se.net themoviesflix.de.com themoviesflix.gr.com themoviesflix.com.de themoviezflix.gr.com themoviezflix.mobi themoviezflix.de.com themoviezflix.de.com themoviesflix.eu.com themoviezflix.com.se themoviezflix.com.mx themoviezflix.cx themoviezflix.ac themoviezflix.us.com themoviezflix.co.com themoviezflix.co.in themoviezflix.in.net themoviezflix.io themoviezflix.co themoviezflix.co themoviezflix.net themoviezflix.org themoviesflix.eu.com themoviesflix.cx themoviesflix.ac themoviesflix.asia themoviesflix.org.mx themoviesmod.org.in 1no RANK- themoviesmod.org.in themoviesverse.in The moviesmod.net.in themoviesmod.xyz themoviesverse.site themoviesverse.mobi themoviesverse.org.in themoviesverse.net themoviesverse.co moviesverse.tv moviesverse.info moviezverse.in MoviesVerse.Work MoviesVerse.org MoviesVerse.net MoviesVerse.com moviesverse.bar"
+            "url": "https://vegamovies.vg",
+            "description": "vegamovies.cab vegamovies.gd vegamovies.ren vegamovies.elk.pl vegamovies.ovh vegamovieshd.co vegamovieshd.rest vegamovieshd.autos vegamovies.codes vegamovies.motorcycles vegamovies.bio vegamovies.charity vegamovies.loan vegamovies.email vegamovies.trade vegamovies.de vegamoviesHD.one vegamovies.media vegamovies.makeup"
         }
     ]
 }
-
