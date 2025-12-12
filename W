@@ -1,1 +1,28 @@
-
+{
+    "w": [
+        {
+            "name": "worldfree4u",
+            "Ranking": "3",
+            "url": "https://worldfree4u-lol.fun",
+            "description": "SERVER DOWN worldfree4u-lol.fun worldfree4u-lol.website worldfree4u-lol.tech worldfree4u-lol.xyz worldfree4u-lol.com worldfree4u-lol.online"
+        },
+        {
+            "name": "watch-online-movies",
+            "Ranking": "1",
+            "url": "https://www.watch-online-movies.com.pk",
+            "description": "www.watchonlinemovies0.com.pk movies-watch.com.pk"
+        },
+        {
+            "name": "worldfree4u",
+            "Ranking": "TVGO",
+            "url": "https://worldfree4u.wf",
+            "description": "worldfree4u.zip worldfree4u.dad worldfree4u.markets worldfree4u.hair worldfree4u.singles worldfree4u.gay worldfree4u.health worldfree4u.lat Worldfree4u.tattoo worldfree4u.gold worldfree4u.boats worldfree4u.autos worldfree4u.wbog.net worldfree4u.qvoy.org worldfree4u.aog.lol worldfree4u.bond.pics worldfree4u.lol.homes worldfree4u.day worldfree4u.bond"
+        },
+        {
+            "name": "worldfree4u",
+            "Ranking": "TVGO",
+            "url": "https://world4ufree.rsvp",
+            "description": "world4ufree.wf world4ufree.zip world4ufree.yachts world4ufree.codes world4ufree.makeup world4ufree.ltd world4ufree.skin world4ufree.hair world4ufree.mom world4ufree.town world4ufree.bio world4ufree.help world4ufree.boats world4ufree.homes world4ufree.digital world4ufree.beauty world4ufree.cloud world4ufree.baby world4ufree.cfd world4ufree.wiki world4ufree.loans world4ufree.loan world4ufree.app world4ufree.43e.club worldfree4u.day"
+        }
+    ]
+}
