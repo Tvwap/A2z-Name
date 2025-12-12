@@ -1,1 +1,11 @@
+{
+    "R": [
+        {
+            "name": "rdxhd",
+            "Ranking": "TVGO",
+            "url": "https://rdxhd.technology",
+            "description": "rdxhd.tours rdxhd.city rdxhd.fyi rdxhd.casa rdxhd.sale rdxhd.gifts rdxhd.works rdxhd.monster rdxhd.support rdxhd.company rdxhd.buzz rdxhd.guru Rdxhd.quest Rdxhd.homes"
+        }
+    ]
+}
 
