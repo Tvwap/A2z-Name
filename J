@@ -1,10 +1,11 @@
+
 {
-    "A": [
+    "J": [
         {
             "name": "jalshamoviez",
-            "Ranking": "TVGO",
-            "url": "https://jalshamoviezhd",
-            "description": "com jalshamoviezhd.com jalshamoviez.day jalshamoviez.dad jalshamoviez.li jalshamoviez.ch jalshamoviez.name jalshamoviez.mov jalshamoviez.tax jalshamoviez.cafe jalshamoviez.love jalshamoviez.lat jalshamoviez.email jalshamoviez.world jalshamoviez.fyi jalshamoviez.tel jalshamoviez.rent jalshamoviez.hair jalshamoviez.team jalshamoviez.gay jalshamoviez.skin"
+            "Ranking": "4",
+            "url": "https://jalshamoviezhd.com",
+            "description": ""
         },
         {
             "name": "jalshamoviez",
@@ -14,6 +15,17 @@
         },
         {
             "name": "jalshamoviez",
-            "Ranking": "TVGO",
+            "Ranking": "3",
             "url": "https://jalshamoviez.yachts",
-            "description": "jalshamoviez.quest jalshamoviez.digital jalshamoviez.cam jalshamoviez.makeup jalshamoviezhd.stream jalshamoviezhd.golf jalshamoviezhd.wiki jalshamoviezhd.click www.jalshamoviez.io.in jalshamoviez.com.bz www.jalshamoviez.com.se www.jalshamoviez.de.com www.jalshamoviez.games www.jalshamoviez.com.
+            "description": "jalshamoviez.quest jalshamoviez.digital jalshamoviez.cam jalshamoviez.makeup jalshamoviezhd.stream jalshamoviezhd.golf jalshamoviezhd.wiki jalshamoviezhd.click"
+        },
+        {
+            "name": "jalshamoviez",
+            "Ranking": "TVGO",
+            "url": "https://jalshamoviez.com.lv",
+            "description": "www.jalshamoviez.io.in jalshamoviez.com.bz www.jalshamoviez.com.se www.jalshamoviez.de.com www.jalshamoviez.games www.jalshamoviez.com.lc www.jalshamoviez.cloud www.jalshamoviez.com.im www.jalshamoviez.com.de ww1.jalshamoviez.com.in www.jalshamoviez.com.in www.jalshamoviez.bio jalshamoviez.media jalshamoviez.com.co ww1.jalshamoviez.autos jalshamoviez.autos jalshamoviez.monster jalshamoviez.homes jalshamoviez.beauty jalshamoviez.institute jalshamoviez.mba jalshamoviezhd.loan jalshamoviezhd.digital jalshamoviezhd.skin jalshamoviezhd.wiki Jalshamoviezhd.beauty"
+        }
+    ]
+}
+
+
