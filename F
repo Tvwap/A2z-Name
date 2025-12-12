@@ -46,9 +46,7 @@
             "name": "filmywap",
             "Ranking": "TVGO",
             "url": "https://filmywap.com.ng",
-            "description": "www.filmywap.com.in www.filmywap.gb.net www.filmywap.uk.com 
-filmywap1.in 
-m.filmywap.com.co www.filmywap.com.cm www.filmywap.com.im www.filmywap.com.bz www.filmywap.com.im www.filmywap.com.co filmywap.com.se filmywap.com.co filmywap.in.net"
+            "description": "www.filmywap.com.in www.filmywap.gb.net www.filmywap.uk.com filmywap1.in m.filmywap.com.co www.filmywap.com.cm www.filmywap.com.im www.filmywap.com.bz www.filmywap.com.im www.filmywap.com.co filmywap.com.se filmywap.com.co filmywap.in.net"
         },
         {
             "name": "filmycab",
@@ -84,9 +82,7 @@ m.filmywap.com.co www.filmywap.com.cm www.filmywap.com.im www.filmywap.com.bz ww
             "name": "filmyzilla",
             "Ranking": "TVGO",
             "url": "https://filmyzilla.com.nf",
-            "description": "www.filmyzilla.com.ng www.filmyzilla.at www.filmyzilla.lu www.filmyzilla.cz www.filmyzilla.si www.filmyzilla.la www.filmyzilla.com.ht filmyzilla.fm filmyzilla.com.tc www.filmyzilla.com.so www.filmyzilla.com.im www.filmyzilla.li filmyzilla.br.com www.filmyzilla.de.com www.filmyzilla.com.lc www.filmyzilla.com.pe www.filmyzilla.com.pl filmyzilla.com.ph filmyzilla.com.vc filmyzilla.com.mx filmyzilla.com.pl filmyzilla.com.cm 
-filmyzilla.co.in 
-filmyzilla.co.com filmyzilla.ind.in"
+            "description": "www.filmyzilla.com.ng www.filmyzilla.at www.filmyzilla.lu www.filmyzilla.cz www.filmyzilla.si www.filmyzilla.la www.filmyzilla.com.ht filmyzilla.fm filmyzilla.com.tc www.filmyzilla.com.so www.filmyzilla.com.im www.filmyzilla.li filmyzilla.br.com www.filmyzilla.de.com www.filmyzilla.com.lc www.filmyzilla.com.pe www.filmyzilla.com.pl filmyzilla.com.ph filmyzilla.com.vc filmyzilla.com.mx filmyzilla.com.pl filmyzilla.com.cm filmyzilla.co.in filmyzilla.co.com filmyzilla.ind.in"
         },
         {
             "name": "ifilmyhit",
@@ -134,8 +130,7 @@ filmyzilla.co.com filmyzilla.ind.in"
             "name": "filmywap",
             "Ranking": "1",
             "url": "https://filmywap.com.tw",
-            "description": "filmywap.com.lv filmywap.firm.in www.filmywap.pg.in filmywap.mex.com filmywap.post.in filmywap.business.in www.filmywap.de.com www.filmywap.com.hr www.filmywap.hk.com www.filmywap.com.so www.filmywap.com.es www.filmywap.com.ro www.filmywap.com.lc ww1.filmywap.com.pe www.filmywap.com.pe www.filmywap.com.mx filmywap.com.pl 
-ww2.filmywap.boats"
+            "description": "filmywap.com.lv filmywap.firm.in www.filmywap.pg.in filmywap.mex.com filmywap.post.in filmywap.business.in www.filmywap.de.com www.filmywap.com.hr www.filmywap.hk.com www.filmywap.com.so www.filmywap.com.es www.filmywap.com.ro www.filmywap.com.lc ww1.filmywap.com.pe www.filmywap.com.pe www.filmywap.com.mx filmywap.com.pl ww2.filmywap.boats"
         }
     ]
 }
