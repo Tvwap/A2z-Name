@@ -1,1 +1,155 @@
+{
+    "A": [
+        {
+            "name": "moviesnest",
+            "Ranking": "1",
+            "url": "https://moviesnest.cc",
+            "description": "moviesverse2.xyz"
+        },
+        {
+            "name": "moviesfd",
+            "Ranking": "1",
+            "url": "https://moviesfd.shop",
+            "description": ""
+        },
+        {
+            "name": "moviesmint",
+            "Ranking": "1",
+            "url": "https://moviesmint.org",
+            "description": ""
+        },
+        {
+            "name": "mkvhub",
+            "Ranking": "1",
+            "url": "https://mkvhub.lol",
+            "description": "mkvhub.space"
+        },
+        {
+            "name": "moviespalace",
+            "Ranking": "1",
+            "url": "https://moviespalace.cyou",
+            "description": "SERVER DOWN moviespalace.cyou moviespalace.online moviespalace.boats"
+        },
+        {
+            "name": "moviesmod",
+            "Ranking": "1",
+            "url": "https://moviesmod.info",
+            "description": "moviesmod.lol moviesmod.biz moviesmod.dev moviesmod.shop moviesmod.wiki moviesmod.vip moviesmod.one moviesmod.pro moviesmod.co.in moviesmod.pro moviesmod.net.in moviesmod.org.in moviesmod.co moviesmod.net"
+        },
+        {
+            "name": "moviesda",
+            "Ranking": "1",
+            "url": "https://moviesda.wiki",
+            "description": "SERVER DOWN moviesda.wiki moviesda.com.cm moviesda.click moviesda5.net moviesda5.com moviesda3.me moviesda3.co moviesda3.net"
+        },
+        {
+            "name": "moviesmafia",
+            "Ranking": "1",
+            "url": "https://moviesmafia.org.in",
+            "description": "moviesmafia.org thebollyhubs.one thebollyhubs.lol thebollyhubs.live thebollyhubs.xyz themoviehubs.one themoviehubs.art themoviehubs.live Themoviehubs.net"
+        },
+        {
+            "name": "moviescounter",
+            "Ranking": "2",
+            "url": "https://moviescounter.lat",
+            "description": "moviescounter.lat moviescounter.autos moviescounter.hair moviescounter.city"
+        },
+        {
+            "name": "moviesyug",
+            "Ranking": "1",
+            "url": "https://www.moviesyug.info",
+            "description": "SERVER DOWN www.moviesyug.info moviesyug.org moviesyug.net"
+        },
+        {
+            "name": "moviesrush",
+            "Ranking": "1",
+            "url": "https://moviesrush.lat",
+            "description": "SERVER DOWN moviesrush.lat moviesrush.cfd moviesrush.art moviesrush.quest"
+        },
+        {
+            "name": "mkvcinemas",
+            "Ranking": "1",
+            "url": "https://mkvcinemas.wales",
+            "description": "mkvcinemas.nexus mkvcinemas.zip mkvcinemas.mov mkvcinemas.boo mkvcinemas.blog mkvcinemas.rest mkvcinemas.bar mkvcinemas.lat ww4.mkvcinemas.lat ww3.mkvcinemas.lat ww2.mkvcinemas.lat mkvcinemas.lat"
+        },
+        {
+            "name": "movies",
+            "Ranking": "1",
+            "url": "https://movies07.site",
+            "description": "SERVER DOWN movies07.cool movies07.tel movies07.lat movies07.ink"
+        },
+        {
+            "name": "moviezguru",
+            "Ranking": "1",
+            "url": "https://moviezguru.rent",
+            "description": "moviezguru.motorcycles movilpartes.com"
+        },
+        {
+            "name": "mkvmoviespoint",
+            "Ranking": "TVGO",
+            "url": "https://mkvmoviespoint.blog",
+            "description": "mkvmoviespoint.tel mkvmoviespoint.boo mkvmoviespoint.run mkvmoviespoint.wtf mkvmoviespoint.click mkvmoviespoint.bar mkvmoviespoint.gold mkvmoviespoint.lat mkvmoviespoint.win mkvmoviespoint.help mkvmoviespoint.bio mkvmoviespoint.cam mkvmoviespoint.mom mkvmoviespoint.mobi mkvmoviespoint.cyou mkvmoviespoint.ink mkvmoviespoint.info mkvmoviespoint.lol mkvmoviespoint.icu mkvmoviespoint.pics mkvmoviespoint.vip"
+        },
+        {
+            "name": "movie4me",
+            "Ranking": "TVGO",
+            "url": "https://movie4me.social",
+            "description": "movie4me.mom movie4me.fan movie4me.space movie4me.report movie4me.baby movie4me.repair movie4me.repair movie4me.world movie4me.cloud movie4me.pro movie4me.gold movie4me.boats movie4me.autos movie4me.store movie4me.homes movie4me.lol movie4me.bond movie4me.one movie4me.cc movie4me.codes movie4me.pics movie4me.mba movie4me.mom movie4me.town"
+        },
+        {
+            "name": "moviescounter",
+            "Ranking": "1",
+            "url": "https://moviescounter.nexus",
+            "description": "moviescounter.makeup moviescounter.club moviescounter.skin moviescounter.beauty moviescounter.singles moviescounter.loan moviescounter.cafe moviescounter.gay moviescounter.gold moviescounter.shop moviescounter.boats moviescounter.homes moviescounter.lol"
+        },
+        {
+            "name": "mkvcine",
+            "Ranking": "1",
+            "url": "https://mkvcine.net",
+            "description": ""
+        },
+        {
+            "name": "moviesrush",
+            "Ranking": "1",
+            "url": "https://moviesrush.boats",
+            "description": "moviesrush.autos moviesrush.store x.moviesrush.nl r.moviesrush.lol i.moviesrush.nl i.moviesrush.lol o.moviesrush.nl d.moviesrush.lol a.moviesrush.nl moviesrush.guru MoviesLuck.in"
+        },
+        {
+            "name": "mkvmad",
+            "Ranking": "TVGO",
+            "url": "https://mkvmad.cool",
+            "description": "www.mkvmad.boo www.mkvmad.space www.mkvmad.casa www.mkvmad.bike www.mkvmad.bio www.mkvmad.loan www.mkvmad.cafe www.mkvmad.care www.mkvmad.day mkvmad.love mkvmad.baby mkvmad.rent mkvmad.men mkvmad.rocks mkvmad.wiki mkvmad.run mkvmad.team mkvmad.guru mkvmad.xyz"
+        },
+        {
+            "name": "moviesrush",
+            "Ranking": "1",
+            "url": "https://moviesrush.in.net",
+            "description": "a.moviesrush.mom moviesrush.hair filmyzilla-xyz.com m.skymovieshd.rest c.moviesrush.hair moviesrush.hair"
+        },
+        {
+            "name": "mp4moviez",
+            "Ranking": "TVGO",
+            "url": "https://mp4moviez.legal",
+            "description": "mp4moviez.ceo mp4moviez.solar mp4moviez.tl www.mp4moviez.gd www.mp4moviez.sc Mp4moviez.ag www.mp4moviez.gs www.mp4moviez.gallery www.mp4moviez.br.com www.mp4moviez.com.mx www.mp4moviez.com.vc www.mp4moviez.camp www.mp4moviez.photo www.mp4moviez.video www.mp4moviez.study mp4moviez.market www.mp4moviez.bet mp4moviez.video www.mp4moviez.hiphop www.mp4moviez.group mp4moviez.hamburg www.mp4moviez.berlin www.mp4moviez.giving www.mp4moviez.health mp4moviez.com.ph mp4moviez.nl mp4moviez.sydney mp4moviez.dance mp4moviez.osaka mp4moviez.nagoya mp4moviez.london mp4moviez.place mp4moviez.haus mp4moviez.kids mp4moviez.how mp4moviez.soy moviemad.gold mp4moviez.voto mp4moviez.yt mp4moviez.baby mp4moviez.mom mp4moviez.tw mp4moviez.actor mp4moviez.immo mp4moviez.global mp4moviez.vegas mp4moviez.lat mp4moviez.city mp4moviez.yoga mp4moviez.town mp4moviez.dev mp4moviez.pl mp4moviez.be mp4moviez.mba mp4moviez.wf mp4moviez.kiwi mp4moviez.homes mp4moviez.day mp4moviez.bid mp4moviez.cm mp4moviez.design mp4moviez.ph mp4moviez.cx mp4moviez.plus mp4moviez.vc mp4moviez.fit mp4moviez.ph mp4moviez.studio Mp4moviez.pw Mp4moviez.krd mp4moviez.page mp4moviez.id mp4moviez.tel mp4moviez.cam Mp4moviez.love Mp4moviez.so Mp4moviez.ink Mp4moviez.sh mp4moviez.wiki mp4moviez.is mp4moviez.bz mp4moviez.gg mp4moviez.click mp4moviez.li mp4moviez.cx mp4moviez.vc mp4moviez.pw Mp4moviez.ch Mp4moviez.film Mp4moviez.in Mp4moviez.guru Mp4-moviez.in Mp4moviez.today mp4moviez.tv"
+        },
+        {
+            "name": "mymoviemad",
+            "Ranking": "TVGO",
+            "url": "https://mymoviemad.org",
+            "description": "moviemad.win mymoviemad.net moviemad.bet moviemad.gg moviemad.gy moviemad.pm moviemad.it www.moviemad.boston www.moviemad.page www.moviemad.sydney www.moviemad.com.de www.moviemad.com.mx www.moviemad.nagoya www.moviemad.nz moviemad.cyou moviemad.com.se moviemad.com.co moviemad.haus moviemad.design moviesmasti.net moviemad.rocks madmovies4u.com moviemad.city moviemad.surf moviemad.gold moviemad.tokyo moviemad.vin moviemad.fyi moviemad.dev moviemad.onl moviemad.day moviemad.mba moviemad.love moviemad.art moviemad.fan moviesmasti.in moviesmasti.in moviemad.id moviemad.in moviemad.link moviemad.com moviemad.guru Moviemad.ch Moviemad.Casa Moviemad.us Moviemad.run TheMoviemad.net hdmoviesmaza.lol hdmoviesmaza.org hdmoviesmaza.pw Moviesming.in Moviesming.mobi moviesming.co Moviesming.me moviesming.biz orgmovies.la orgmovies.co Orgmovies.mobi movieslife.in Movieslife.net 1filmywap.org 1filmywap.net 1filmywap.com Movievilla.mobi Moviesmax.in"
+        },
+        {
+            "name": "movies4u",
+            "Ranking": "TVGO",
+            "url": "https://movies4u.cab",
+            "description": "movies4u.so movies4u.biz movies4u.rodeo movies4u.im Movies4u.La movies4u.marketing movies4u.coach movies4u.center movies4u.bio movies4u.network movies4u.mobi movies4u.media movies4u.team movies4u.lat movies4u.gives movies4u.boutique movies4u.digital movies4u.foundation movies4u.icu movies4u.cyou movies4u.help movie4me.boats movies4u.bond movies4u.autos movies4u.hair movies4u.skin movies4u.gay Movies4u.VIP movie4me.autos movie4me.store movie4me.homes movie4me.lol movie4me.bond movie4me.one movie4me.cc movie4me.codes movie4me.pics movie4me.mba movie4me.mom movie4me.town"
+        },
+        {
+            "name": "moviesflix",
+            "Ranking": "1",
+            "url": "https://themoviesflix.win",
+            "description": "moviesflix.li moviesflix.men moviesflix.rip moviesflix.so moviesflix.co.bz moviesflix.ch moviesflix.bet moviesflix.mba moviesflix.lat moviesflix.cx hdmoviesflix.pw hdmoviesflix.lat hdmoviesflix.ws hdmoviesflix.world hdmoviesflix.rent hdmoviesflix.gay hdmoviesflix.run hdmoviesflix.vin hdmoviesflix.vip TheMoviesflix.online"
+        }
+    ]
+}
 
