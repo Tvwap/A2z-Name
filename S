@@ -1,1 +1,77 @@
+{
+    "S": [
+        {
+            "name": "skymovieshd",
+            "Ranking": "7",
+            "url": "https://skymovieshd.biz.in",
+            "description": "skymovieshd.org.bz www.skymovieshd.me.in www.skymovieshd.us.in www.skymovieshd.com.mx"
+        },
+        {
+            "name": "skymovieshd",
+            "Ranking": "6",
+            "url": "https://skymovieshd.com.de",
+            "description": "skymovieshd.com.de"
+        },
+        {
+            "name": "starflix",
+            "Ranking": "1",
+            "url": "https://starflix.xyz",
+            "description": "SERVER DOWN starflix.xyz"
+        },
+        {
+            "name": "skymovieshd",
+            "Ranking": "3",
+            "url": "https://skymovieshd.services",
+            "description": "skymovieshd.college skymovieshd.club"
+        },
+        {
+            "name": "ww",
+            "Ranking": "2",
+            "url": "https://ww1.ssrmovies.nl",
+            "description": "ww1.ssrmovies.nl ssrmovies.nl ssrmovies.me"
+        },
+        {
+            "name": "skymovieshd",
+            "Ranking": "5",
+            "url": "https://skymoviehd.net",
+            "description": ""
+        },
+        {
+            "name": "sdmoviespoint",
+            "Ranking": "TVGO",
+            "url": "https://sdmoviespoint.mov",
+            "description": "sdmoviespoint.boo sdmoviespoint.foo sdmoviespoint.zip sdmoviespoint.hair sdmoviespoint.photos sdmoviespoint.markets sdmoviespoint.fyi sdmoviespoint.lat sdmoviespoint.rest sdmoviespoint.tools sdmoviespoint.health sdmoviespoint.run sdmoviespoint.tattoo sdmoviespoint.cloud sdmoviespoint.ninja"
+        },
+        {
+            "name": "southfreak",
+            "Ranking": "TVGO",
+            "url": "https://southfreak.wiki",
+            "description": "southfreak.pro southfreak.cyou southfreak.bio southfreak.lol southfreak.pics southfreak.xyz SouthFreak.click SouthFreak.com"
+        },
+        {
+            "name": "skymovieshd",
+            "Ranking": "4",
+            "url": "https://skymovieshd.day",
+            "description": "skymovieshd.day skymovieshd.dev"
+        },
+        {
+            "name": "skymovieshd",
+            "Ranking": "2",
+            "url": "https://skymovieshd.mobi",
+            "description": "skymovieshd.yachts skymovieshd.vip skymovieshd.autos Skymovieshd.makeup Skymovieshd.pro skymovieshd.fun"
+        },
+        {
+            "name": "ssrmovies",
+            "Ranking": "TVGO",
+            "url": "https://ssrmovies.fit",
+            "description": "ssrmovies.meme ssrmovies.golf ssrmovies.mov ssrmovies.watch ssrmovies.dad ssrmovies.boutique ssrmovies.photos ssrmovies.hair ssrmovies.photos ssrmovies.estate 1ssrmovies.makeup ssrmovies.singles ssrmovies.chat ssrmovies.cafe ssrmovies.review www.ssrmovies.report www.ssrmovies.monster www.2ssrmovies.com www.ssrmovies.health ssrmovies.delivery 1ssrmovies.buzz ssrmovies.lat ssrmovies.charity ssrmovies.repair ssrmovies.day ssrmovies.boats ssrmovies.party ssrmovies.autos ssrmovies.band ssrmovies.pictures ssrmovies.stream ssrmovies.uno ssrmovies.ink ssrmovies.wine"
+        },
+        {
+            "name": "skymovieshd",
+            "Ranking": "1",
+            "url": "https://skymovieshd.ing",
+            "description": "skymovieshd.nexus skymovieshd.ong skymovieshd.rsvp skymovieshd.ngo skymovieshd.style skymovieshd.mov skymovieshd.foo skymovieshd.zip skymovieshd.dad skymovieshd.boo skymovieshd.tours skymovieshd.actor skymovieshd.tube skymovieshd.cash skymovieshd.tax skymovieshd.tips skymovieshd.fan skymovieshd.sale skymovieshd.bike skymovieshd.taxi skymovieshd.bet skymovieshd.date skymovieshd.gold skymovieshd.wine skymovieshd.town skymovieshd.cafe skymovieshd.love Skymovieshd.lat skymovieshd.bio skymovieshd.email skymovieshd.boats skymovieshd.help skymovieshd.rent skymovieshd.gives skymovieshd.loan skymovieshd.io skymovieshd.baby skymovieshd.gay skymovieshd.team skymovieshd.skin skymovieshd.men skymovieshd.cyou skymovieshd.plus skymovieshd.pics skymovieshd.lol skymovieshd.cool skymovieshd.mom skymovieshd.name skymovieshd.blog skymovieshd.tel skymovieshd.fyi skymovieshd.fund skymovieshd.uno skymovieshd.zone skymovieshd.news skymovieshd.show skymovieshd.sbs skymovieshd.wiki skymovieshd.onl skymovieshd.rip skymovieshd.mx skymovieshd.red skymovieshd.kim Skymovieshd.ink skymovieshd.ltd skymovieshd.uno skymovieshd.vin skymovieshd.nl Skymovieshd.me Skymovieshd.in Skymovieshd.life Skymovieshd.link Skymovieshd.run Skymovieshd.one Skymovieshd.fit Skymovieshd.art Skymovieshd.vet"
+        }
+    ]
+}
 
