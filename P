@@ -1,1 +1,17 @@
+{
+    "P": [
+        {
+            "name": "pikahd",
+            "Ranking": "1",
+            "url": "https://pikahd.com",
+            "description": ""
+        },
+        {
+            "name": "pagalmovies",
+            "Ranking": "TVGO",
+            "url": "https://pagalmovies.io.in",
+            "description": "www.pagalmovies.asia www.pagalmovies.lat ww1.pagalmovies.christmas www.pagalmovies.blog www.pagalmovies.yachts www.pagalmovies.tattoo www.pagalmovies.store www.pagalmovies.bio www.pagalmovies.com.in ww5.pagalmovies.ink pagalmovies.ink pagalmovies.skin pagalmovies.boats pagalmovies.motorcycles ww2.pagalmovies.autos ww1.pagalmovies.autos pagalmovies.autos pagalmovies.wiki pagalmovies.beauty pagalmovies.sbs pagalmovies.mom pagalmovies.lol"
+        }
+    ]
+}
 
