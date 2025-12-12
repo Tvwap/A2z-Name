@@ -58,4 +58,67 @@
             "name": "hdhub4u",
             "Ranking": "TVGO",
             "url": "https://hdhub4u.nexus",
-            "description": "hdhub4u.pm hdhub4u.mov hdhub4u.ist hdhub4u.zip hdhub4u.dad hdhub4u.markets hdhub4u.fan hdhub4u.ventures hdhub4u.racing hdhub4u.ventures hdhub4u.green hdhub4u.fund hdhub4u.expert hdhub
+            "description": "hdhub4u.pm hdhub4u.mov hdhub4u.ist hdhub4u.zip hdhub4u.dad hdhub4u.markets hdhub4u.fan hdhub4u.ventures hdhub4u.racing hdhub4u.ventures hdhub4u.green hdhub4u.fund hdhub4u.expert hdhub4u.college hdhub4u.tips hdhub4u.health hdhub4u.africa hdhub4u.show hdhub4u.chat hdhub4u.team hdhub4u.email hdhub4u.gdn hdhub4u.tools hdhub4u.boats hdhub4u.run hdhub4u.rent hdhub4u.homes hdhub4u.im hdhub4u.homes hdhub4u.fyi hdhub4u.bike hdhub4u.rip hdhub4u.uk hdhub4u.wtf hdhub4u.cyou hdhub4u.pics hdhub4u.onl hdhub4u.mba hdhub4u.tel hdhub4u.mom"
+        },
+        {
+            "name": "hdhub4u",
+            "Ranking": "2",
+            "url": "https://hdhub4u.org.in",
+            "description": "hdhub4u.org.in hdhub4u.hair hdhub4u.ml hdhub4u.im hdhub4u.io hdhub4u.city hdhub4u.ws hdhub4u.ink hdhub4u.cloud hdhub4u.pro hdhub4u.ninja"
+        },
+        {
+            "name": "hdhub4u",
+            "Ranking": "3",
+            "url": "https://hdhub4u.rodeo",
+            "description": "SERVER DOWN hdhub4u.rodeo hdhub4u.motorcycles hdhub4u.yachts hdhub4u.makeup hdhub4you.art hdhub4u.art hdhub4u.skin"
+        },
+        {
+            "name": "hdmovies4u",
+            "Ranking": "1",
+            "url": "https://hdmovies4u.nexus",
+            "description": "hdmovies4u.wf hdmovies4u.day hdmovies4u.band hdmovies4u.band hdmovies4u.taxi hdmovies4u.black hdmovies4u.name hdmovies4u.info hdmovies4u.actor hdmovies4u.makeup hdmovies4u.tattoo hdmovies4u.digital hamovies4u.hair hdmovies4u.bio hdmovies4u.today hdmovies4u.store hdmovies4u.ink hdmovies4u.autos hdmovies4u.icu hdmovies4u.boats hdmovies4u.beauty hdmovies4u.guru HDMovies4u.Cam HDMovies4u.org hdmovies4u.bond hdmovies4u.pics hdmovies4u.sbs"
+        },
+        {
+            "name": "hindmoviez",
+            "Ranking": "2",
+            "url": "https://hindmoviez.click",
+            "description": "hindmoviez.bond hindmoviez.cfd hindmovie.in.net hindmoviez.art hindmovie.cfd"
+        },
+        {
+            "name": "hdmoviehub",
+            "Ranking": "TVGO",
+            "url": "https://hdmoviehub.us",
+            "description": "hdmoviehub.blog hdmoviehub.life hdmoviehub.yachts hdmoviehub.motorcycles hdmoviehub.monster hdmoviehub.boats hdmoviehub.autos hdmoviehub.beauty hdmoviehub.quest hdmoviehub.pics hdmoviehub.mom hdmoviehub.website hdmoviehub.space hdmoviehub.rest hdmoviehub.cfd hdmoviehub.lol hdmoviehub.bar hdmoviehub.buzz"
+        },
+        {
+            "name": "hdmoviesfair",
+            "Ranking": "1",
+            "url": "https://hdmoviesfair.blog",
+            "description": "hdmoviesfair.baby hdmoviesfair.guru hdmoviesfair.sbs hdmoviesfair.mom hdmoviefair.store hdmoviesfair.co hdmoviesfair.asia hdmoviesfair.lol hdmoviesfair.lat hdmoviesfair.biz hdmoviesfair.best hdmoviesfair.cloud hdmoviesfair.boats hdmoviesfair.pro hdmoviefair.pro hdmoviefair.fun hdmoviesfair.autos hdmoviesfair.art hdmoviesfair.cam hdmoviefair.xyz hdmoviefair.uno hdmoviesfair.shop"
+        },
+        {
+            "name": "hindmoviez",
+            "Ranking": "1",
+            "url": "https://hindmoviez.es",
+            "description": "hindmoviez.ch hindmoviez.store hindmoviez.one hindmoviez.icu hindmoviez.de hindmoviez.wiki hindmoviez.love hindmoviez.nl hindmoviez.app hindmoviez.biz hindmoviez.co.in hindmoviez.co hindmoviez.org.in hindmoviez.org hindmoviez.net hindmoviez.in hindmovie.one hindmovie.asia"
+        },
+        {
+            "name": "hdmoviearea",
+            "Ranking": "1",
+            "url": "https://hdmoviearea.info",
+            "description": "SERVER DOWN hdmoviearea.info hdmoviearea.actor hdmoviarea.org hdmoviarea.online hdmoviarea.cc hdmoviarea.net hdmoviarea.in hdmoviarea.com"
+        },
+        {
+            "name": "hdmovies23",
+            "Ranking": "TVGO",
+            "url": "https://hdmovies23.buzz",
+            "description": "hdmovies23.lat hdmovies23.biz hdmovies23.life hdmovies23.skin hdmovies23.xyz hdmovies23.bio hdmovies23.run hdmovies4u.sbs hdmovies23.co hdmovies23.one hdmovies23.wiki"
+        },
+        {
+            "name": "hdmovies50",
+            "Ranking": "1",
+            "url": "https://hdmovies50.dog",
+            "description": "hdmovies50.top hdmovies50 pics hdmovies50.wiki hdmovies50.cc hdmovies50.vip hdmovies50.homes hdmovies50.ink hdmovies50.site hdmovies50.site hdmovies50.co hdmovies50.xyz"
+        }
+    ]
+}
