@@ -1,5 +1,5 @@
 {
-    "A": [
+    "L": [
         {
             "name": "luxmovies",
             "Ranking": "1",
