@@ -110,7 +110,7 @@ filmyzilla.co.com filmyzilla.ind.in"
             "name": "filmyzilla",
             "Ranking": "TVGO",
             "url": "https://filmyzilla.com.vu",
-            "description": "filmyzilla.org.il www.filmyzilla.org.lv www.filmyzilla.org.es www.filmyzilla.org.bz www.filmyzilla.com.mk www.filmyzilla.education www.filmyzilla.com.gy www.filmyzilla.africa.com filmyzilla1.media www.filmyzilla.com.do www.filmyzilla.com.ss ww1.filmyzilla.com.ec www.filmyzilla.it.com www.filmyzilla.hk.com www.filmyzilla.boo www.filmyzilla.internet.in www.filmyzilla.info.in www.filmyzilla.me.in www.filmyzilla.cafe www.filmyzilla.fund filmyzilla.training filmyzilla.webcam filmyzilla.credit ww1.filmyzilla.com.ro filmyzilla.com.ro ww2.filmyzilla.com.es filmyzilla.plus filmyzilla.com.es filmyzilla.science filmyzilla.gold filmyzilla.christmas filmyzilla.tools ww1.filmyzilla.marketing filmyzilla.marketing filmyzilla.photo filmyzilla.photos filmyzilla.yachts filmyzilla.motorcycles filmyzilla.boats filmyzilla.photos filmyzilla.photography filmyzilla.chat filmyzilla.baby filmyzilla.institute filmyzilla.system_______s filmyzilla.expert filmyzilla.review filmyzilla.health filmyzilla.help filmyzilla.hair filmyzilla.autos Filmyzilla.makeup filmyzilla1.info"
+            "description": "filmyzilla.org.il www.filmyzilla.org.lv www.filmyzilla.org.es www.filmyzilla.org.bz www.filmyzilla.com.mk www.filmyzilla.education www.filmyzilla.com.gy www.filmyzilla.africa.com filmyzilla1.media www.filmyzilla.com.do www.filmyzilla.com.ss ww1.filmyzilla.com.ec www.filmyzilla.it.com www.filmyzilla.hk.com www.filmyzilla.boo www.filmyzilla.internet.in www.filmyzilla.info.in www.filmyzilla.me.in www.filmyzilla.cafe www.filmyzilla.fund filmyzilla.training filmyzilla.webcam filmyzilla.credit ww1.filmyzilla.com.ro filmyzilla.com.ro ww2.filmyzilla.com.es filmyzilla.plus filmyzilla.com.es filmyzilla.science filmyzilla.gold filmyzilla.christmas filmyzilla.tools ww1.filmyzilla.marketing filmyzilla.marketing filmyzilla.photo filmyzilla.photos filmyzilla.yachts filmyzilla.motorcycles filmyzilla.boats filmyzilla.photos filmyzilla.photography filmyzilla.chat filmyzilla.baby filmyzilla.institute filmyzilla.systems filmyzilla.expert filmyzilla.review filmyzilla.health filmyzilla.help filmyzilla.hair filmyzilla.autos Filmyzilla.makeup filmyzilla1.info"
         },
         {
             "name": "filmigod",
@@ -134,7 +134,8 @@ filmyzilla.co.com filmyzilla.ind.in"
             "name": "filmywap",
             "Ranking": "1",
             "url": "https://filmywap.com.tw",
-            "description": "filmywap.com.lv filmywap.firm.in www.filmywap.pg.in filmywap.mex.com filmywap.post.in filmywap.business.in www.filmywap.de.com www.filmywap.com.hr www.filmywap.hk.com www.filmywap.com.so www.filmywap.com.es www.filmywap.com.ro www.filmywap.com.lc ww1.filmywap.com.pe www.filmywap.com.pe www.filmywap.com.mx filmywap.com.pl ww2.filmywap.boats"
+            "description": "filmywap.com.lv filmywap.firm.in www.filmywap.pg.in filmywap.mex.com filmywap.post.in filmywap.business.in www.filmywap.de.com www.filmywap.com.hr www.filmywap.hk.com www.filmywap.com.so www.filmywap.com.es www.filmywap.com.ro www.filmywap.com.lc ww1.filmywap.com.pe www.filmywap.com.pe www.filmywap.com.mx filmywap.com.pl 
+ww2.filmywap.boats"
         }
     ]
 }
