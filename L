@@ -1,1 +1,11 @@
+{
+    "A": [
+        {
+            "name": "luxmovies",
+            "Ranking": "1",
+            "url": "https://luxmovies.lat",
+            "description": "luxmovies.art dotmovies.dad dotmovies.yachts dotmovies.monster dotmovies.today dotmovies.icu dotmovies.hair dotmovies.rest dotmovies.baby dotmovies.wiki m.dotmovies.boats dotmovies.bio dotmovies.boats dotmovies.click dotmovies.cam dotmovies.ink dotmovies.xyz dotmovies.us dotmovies.site dotmovies.pro dotmovies.me dotmovies.lol dotmovies.biz"
+        }
+    ]
+}
 
