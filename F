@@ -46,7 +46,9 @@
             "name": "filmywap",
             "Ranking": "TVGO",
             "url": "https://filmywap.com.ng",
-            "description": "www.filmywap.com.in www.filmywap.gb.netwww.filmywap.uk.com filmywap1.in m.filmywap.com.co www.filmywap.com.cm www.filmywap.com.im www.filmywap.com.bz www.filmywap.com.im www.filmywap.com.co filmywap.com.se filmywap.com.co filmywap.in.net"
+            "description": "www.filmywap.com.in www.filmywap.gb.net www.filmywap.uk.com 
+filmywap1.in 
+m.filmywap.com.co www.filmywap.com.cm www.filmywap.com.im www.filmywap.com.bz www.filmywap.com.im www.filmywap.com.co filmywap.com.se filmywap.com.co filmywap.in.net"
         },
         {
             "name": "filmycab",
@@ -82,7 +84,9 @@
             "name": "filmyzilla",
             "Ranking": "TVGO",
             "url": "https://filmyzilla.com.nf",
-            "description": "www.filmyzilla.com.ng www.filmyzilla.at www.filmyzilla.lu www.filmyzilla.cz www.filmyzilla.si www.filmyzilla.la www.filmyzilla.com.ht filmyzilla.fm filmyzilla.com.tc www.filmyzilla.com.so www.filmyzilla.com.im www.filmyzilla.li filmyzilla.br.com www.filmyzilla.de.com www.filmyzilla.com.lc www.filmyzilla.com.pe www.filmyzilla.com.pl filmyzilla.com.ph filmyzilla.com.vc filmyzilla.com.mx filmyzilla.com.pl filmyzilla.com.cm filmyzilla.co.in filmyzilla.co.com filmyzilla.ind.in"
+            "description": "www.filmyzilla.com.ng www.filmyzilla.at www.filmyzilla.lu www.filmyzilla.cz www.filmyzilla.si www.filmyzilla.la www.filmyzilla.com.ht filmyzilla.fm filmyzilla.com.tc www.filmyzilla.com.so www.filmyzilla.com.im www.filmyzilla.li filmyzilla.br.com www.filmyzilla.de.com www.filmyzilla.com.lc www.filmyzilla.com.pe www.filmyzilla.com.pl filmyzilla.com.ph filmyzilla.com.vc filmyzilla.com.mx filmyzilla.com.pl filmyzilla.com.cm 
+filmyzilla.co.in 
+filmyzilla.co.com filmyzilla.ind.in"
         },
         {
             "name": "ifilmyhit",
