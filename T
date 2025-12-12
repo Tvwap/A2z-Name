@@ -1,1 +1,35 @@
+{
+    "T": [
+        {
+            "name": "vegamovies",
+            "Ranking": "1",
+            "url": "https://thevegamovies.co",
+            "description": "vegamovies.dog"
+        },
+        {
+            "name": "moviesflix",
+            "Ranking": "1",
+            "url": "https://themoviezflix.tv",
+            "description": "SERVER DOWN themoviezflix.tv"
+        },
+        {
+            "name": "starflix",
+            "Ranking": "1",
+            "url": "https://thestarflix.lat",
+            "description": "thestarflix.fun thestarflix.xyz Thestarflix.lol Thestarflix.buzz bollyflix.skin BollyFlix.mom hdmovies4u.pro hdmovies4u.work hdmovies4u.vip HDMovies4u.fun hdmovies4u.space hdmovies4u.wtf hdmovies4u.skin hdmovies4u.cfd hdmovies4u.art hdmovies4u.bar hdmovies4u.rest hdmovies4u.asia hdmovies4u.life hdmovies4u.net hdmovies4u.quest hdmovies4u.me hdmovies4u.mom hdmovies4u.cyou"
+        },
+        {
+            "name": "khatrimaza",
+            "Ranking": "TVGO",
+            "url": "https://thekhatrimaza.cab",
+            "description": "thekhatrimaza.mov thekhatrimaza.rip thekhatrimaza.tax thekhatrimaza.casa thekhatrimaza.bike thekhatrimaza.tube thekhatrimaza.club thekhatrimaza.cheap thekhatrimaza.loan thekhatrimaza.cafe thekhatrimaza.blue thekhatrimaza.care thekhatrimaza.day thekhatrimaza.gold thekhatrimaza.bond thekhatrimaza.golf thekhatrimaza.baby thekhatrimaza.love thekhatrimaza.rent thekhatrimaza.fit thekhatrimaza.skin thekhatrimaza.run thekhatrimaza.icu thekhatrimaza.men thekhatrimaza.cam thekhatrimaza.info thekhatrimaza.team thekhatrimaza.tips thekhatrimaza.life thekhatrimaza.skin thekhatrimaza.shop thekhatrimaza.press thekhatrimaza.town thekhatrimaza.camp thekhatrimaza.city thekhatrimaza.link Thekhatrimaza.rest"
+        },
+        {
+            "name": "moviesflix",
+            "Ranking": "TVGO",
+            "url": "https://themoviesflix.net.vc",
+            "description": "themoviezflix.us.org themoviezflix.org.MX themoviezflix.com.ph themoviesflix.us.org themoviesflix.se.net themoviesflix.de.com themoviesflix.gr.com themoviesflix.com.de themoviezflix.gr.com themoviezflix.mobi themoviezflix.de.com themoviezflix.de.com themoviesflix.eu.com themoviezflix.com.se themoviezflix.com.mx themoviezflix.cx themoviezflix.ac themoviezflix.us.com themoviezflix.co.com themoviezflix.co.in themoviezflix.in.net themoviezflix.io themoviezflix.co themoviezflix.co themoviezflix.net themoviezflix.org themoviesflix.eu.com themoviesflix.cx themoviesflix.ac themoviesflix.asia themoviesflix.org.mx themoviesmod.org.in 1no RANK- themoviesmod.org.in themoviesverse.in The moviesmod.net.in themoviesmod.xyz themoviesverse.site themoviesverse.mobi themoviesverse.org.in themoviesverse.net themoviesverse.co moviesverse.tv moviesverse.info moviezverse.in MoviesVerse.Work MoviesVerse.org MoviesVerse.net MoviesVerse.com moviesverse.bar"
+        }
+    ]
+}
 
