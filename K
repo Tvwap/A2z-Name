@@ -1,1 +1,35 @@
+{
+    "K": [
+        {
+            "name": "khatrimazafull",
+            "Ranking": "4",
+            "url": "https://khatrimazafull.autos",
+            "description": "khatrimazafull.lat"
+        },
+        {
+            "name": "khatrimaza",
+            "Ranking": "3",
+            "url": "https://khatrimaza.cool",
+            "description": "khatrimaza.buzz khatrimaza.link"
+        },
+        {
+            "name": "khatrimaza",
+            "Ranking": "2",
+            "url": "https://khatrimaza.charity",
+            "description": "khatrimaza.giving khatrimaza.yachts khatrimaza.fyi khatrimaza.se khatrimaza.tools khatrimaza.express khatrimaza.help khatrimaza.monster khatrimaza1.org Khatrimaza.cloud"
+        },
+        {
+            "name": "katmoviehd",
+            "Ranking": "1",
+            "url": "https://katmoviehd.boo",
+            "description": "katmoviehd.dad katmoviehd.dev katmoviehd.day katmoviehd.mov katmoviehd.ma katmoviehd.ms katmoviehd.vg katmovieshd.vg katmoviehd.mx katmovieshd.org katmoviehd.tf katmoviehd.fr katmoviehd.yt katmoviehd.rs katmoviehd.tw"
+        },
+        {
+            "name": "khatrimaza",
+            "Ranking": "TVGO",
+            "url": "https://khatrimaza.charity",
+            "description": "khatrimaza.yachts khatrimaza.com.se khatrimaza.fyi khatrimaza.se khatrimaza.tools khatrimaza.pics khatrimaza.autos khatrimaza.nl khatrimaza.tattoo khatrimaza.vodka khatrimaza.lat khatrimaza.study khatrimaza.love khatrimaza.beer khatrimaza.media hdmovies98.com ssrmovies.click khatrimaza.click"
+        }
+    ]
+}
 
