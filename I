@@ -1,1 +1,11 @@
+{
+    "I": [
+        {
+            "name": "isaimini",
+            "Ranking": "1",
+            "url": "https://isaimini.vin",
+            "description": "SERVER DOWN isaimini.vin isaimini.vip"
+        }
+    ]
+}
 
