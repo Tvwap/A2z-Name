@@ -8,20 +8,20 @@
         {
             "url": "https://123mkv.meme",
             "name": "123mkv",
-            "Ranking": "1",
-            "description": "123mkv.boo 123mkv.training"
+            "Ranking": "10",
+            "description": "123mkv.meme 123mkv.boo 123mkv.training"
         },
         {
-            "url": "https://series.480ptvseries.com",
-            "name": "series",
-            "Ranking": "1",
-            "description": "tv.480ptvseries.com"
+            "url": "https://www.480ptvseries.com/",
+            "name": "480ptvseries",
+            "Ranking": "7",
+            "description": "480ptvseries.com series.480ptvseries.com tv.480ptvseries.com"
         },
         {
             "url": "https://7starflix.art",
             "name": "7starflix",
-            "Ranking": "1",
-            "description": "7starflix.com"
+            "Ranking": "4",
+            "description": "7starflix.art 7starflix.com"
         },
         {
             "url": "https://7starshd.com",
@@ -191,12 +191,7 @@
             "Ranking": "6",
             "description": "9xmovies.exchange 9xmovies1.net 9xmovies.recipes 9xmovies.beauty 9xmovies.yoga 9xmovies.wang 9xmovies.tattoo 9xmovies.day 9xmovies.hair"
         },
-        {
-            "url": "https://7starhd.tokyo",
-            "name": "7starhd",
-            "Ranking": "5",
-            "description": "7starhd1.live 7starhd1.lol 7starhd1.xyz 7starhd1.me"
-        },
+        
         {
             "url": "https://7starmovie.pics",
             "name": "7starmovie",
