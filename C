@@ -6,6 +6,11 @@
             "url": "https://cinehub.sbs",
             "description": "cinehub.sbs"
         },
+{
+            "name": "cinedoze",
+            "Ranking": "1",
+            "url": "https://cinedoze.tv/",
+            "description": "https://cinedoze.tv/
         {
             "name": "coolmoviez",
             "Ranking": "TVGO",
